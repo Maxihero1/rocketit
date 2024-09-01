@@ -1,0 +1,17 @@
+C:\Users\Marlon\Desktop\Workspace\RocketFood\FoodTruck\FoodTruck\obj\Debug\net8.0-windows\FoodTruck.Properties.Resources.resources
+C:\Users\Marlon\Desktop\Workspace\RocketFood\FoodTruck\FoodTruck\obj\Debug\net8.0-windows\FoodTruck.csproj.GenerateResource.cache
+C:\Users\Marlon\Desktop\Workspace\RocketFood\FoodTruck\FoodTruck\obj\Debug\net8.0-windows\FoodTruck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlon\Desktop\Workspace\RocketFood\FoodTruck\FoodTruck\obj\Debug\net8.0-windows\FoodTruck.AssemblyInfoInputs.cache
+C:\Users\Marlon\Desktop\Workspace\RocketFood\FoodTruck\FoodTruck\obj\Debug\net8.0-windows\FoodTruck.AssemblyInfo.cs
+C:\Users\Marlon\Desktop\Workspace\RocketFood\FoodTruck\FoodTruck\obj\Debug\net8.0-windows\FoodTruck.csproj.CoreCompileInputs.cache
+C:\Users\Marlon\Desktop\Workspace\RocketFood\FoodTruck\FoodTruck\bin\Debug\net8.0-windows\FoodTruck.exe
+C:\Users\Marlon\Desktop\Workspace\RocketFood\FoodTruck\FoodTruck\bin\Debug\net8.0-windows\FoodTruck.deps.json
+C:\Users\Marlon\Desktop\Workspace\RocketFood\FoodTruck\FoodTruck\bin\Debug\net8.0-windows\FoodTruck.runtimeconfig.json
+C:\Users\Marlon\Desktop\Workspace\RocketFood\FoodTruck\FoodTruck\bin\Debug\net8.0-windows\FoodTruck.dll
+C:\Users\Marlon\Desktop\Workspace\RocketFood\FoodTruck\FoodTruck\bin\Debug\net8.0-windows\FoodTruck.pdb
+C:\Users\Marlon\Desktop\Workspace\RocketFood\FoodTruck\FoodTruck\obj\Debug\net8.0-windows\FoodTruck.dll
+C:\Users\Marlon\Desktop\Workspace\RocketFood\FoodTruck\FoodTruck\obj\Debug\net8.0-windows\refint\FoodTruck.dll
+C:\Users\Marlon\Desktop\Workspace\RocketFood\FoodTruck\FoodTruck\obj\Debug\net8.0-windows\FoodTruck.pdb
+C:\Users\Marlon\Desktop\Workspace\RocketFood\FoodTruck\FoodTruck\obj\Debug\net8.0-windows\FoodTruck.genruntimeconfig.cache
+C:\Users\Marlon\Desktop\Workspace\RocketFood\FoodTruck\FoodTruck\obj\Debug\net8.0-windows\ref\FoodTruck.dll
+C:\Users\Marlon\Desktop\Workspace\RocketFood\FoodTruck\FoodTruck\obj\Debug\net8.0-windows\FoodTruck.Login.resources
